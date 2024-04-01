@@ -9,3 +9,6 @@
 ##### GitHub
 
 ###### Happy Learning
+
+
+![Hey Ya](https://octodex.github.com/images/yaktocat.png)
